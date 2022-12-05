@@ -1,7 +1,12 @@
 ### Hi there 👋
-
+## :eyes: Current overview
+- 🔭 I’m a fresher open for work
+- 🌱 I’m currently learning ###`Javascript` 
+- 👯 I’m looking to collaborate on open source projects
+- ⚡ Fun fact: I love to watching football and Drama 
 <!--
 **greeenOrange/greeenOrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :mailbox: Connect with me
 
 Here are some ideas to get you started:
 
