@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## :eyes: Current overview
 - 🔭 I’m a fresher open for work
-- 🌱 I’m currently learning ###`Javascript` 
+- 🌱 I’m currently learning`Javascript` 
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I love to watching football and Drama 
 <!--
